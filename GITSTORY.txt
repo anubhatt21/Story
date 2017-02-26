@@ -1,1 +1,2 @@
 This is an exercise on creating a GIT STORY. It was practiced on Sunday, Feb 26th.
+Sublime shortcut did not work initially.
